@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Ajeeth Venkat Prasat
 
-<!--
-**ajeethv27/ajeethv27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Embedded Systems Engineer | IoT, AI & Biomedical Devices  
+Freiburg, Germany | ajeethvp@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I Do
+- Build intelligent sensor platforms & energy-autonomous devices  
+- Fuse AI/ML with edge systems for healthcare, robotics & IoT  
+- Prototype, code, solder, deploy—repeat!
+
+---
+
+### 🛠️ Toolbox
+`C/C++` `Python` `MATLAB`  
+`TensorFlow` `PyTorch` `TinyML`  
+`ARM Cortex-M` `ROS` `OrCAD`  
+`CAN` `SPI` `UART` `I2C`  
+`Git` `Docker` `Linux`  
+
+---
+
+### ✨ Projects
+- **AI Fall Detection** | IMU + LSTM for elderly care  
+- **Smart Waste Monitoring** | TinyML on Arduino, MQTT  
+- **Automated Car Parking** | CAN Bus, Python, Raspberry Pi
+
+---
+
+### 📚 Publications  
+- *Energy-Autonomous Wearables for Healthcare Monitoring* (IEEE Sensors Journal, under review)  
+- *Energy Management System for Smart Factories* (IRJET, 2020)
+
+---
+
+### 🌍 Languages  
+English | German | French | Hindi | Tamil | Kannada
+
+---
+
+> “Turning signals into solutions. Always learning, always building.”
