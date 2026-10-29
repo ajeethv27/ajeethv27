@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 220" width="560" height="220">
+<style>.sans{font-family:'Segoe UI',-apple-system,Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}</style>
+<rect x="1" y="1" width="558" height="218" rx="16" fill="#0A1320" stroke="#1C3147" stroke-width="2"/>
+<text x="28" y="40" class="mono" font-size="12" fill="#06B6D4" letter-spacing="1.5">01 · M.SC. THESIS · LIVMATS / IMTEK</text>
+<text x="28" y="76" class="sans" font-size="23" font-weight="700" fill="#FFFFFF">Self-powered gait-analysis insole</text>
+<text x="28" y="110" class="sans" font-size="15" fill="#A9BBCB">TENG sensor → electrometer AFE →</text>
+<text x="28" y="132" class="sans" font-size="15" fill="#A9BBCB">ESP32 → FFT features → XGBoost</text>
+<line x1="28" y1="152" x2="532" y2="152" stroke="#1C3147"/>
+<rect x="28" y="176" width="52" height="24" rx="12" fill="#12263A" stroke="#1F3A52"/><text x="39" y="192" class="mono" font-size="12" fill="#9FC6D6">TENG</text><rect x="88.4" y="176" width="68" height="24" rx="12" fill="#12263A" stroke="#1F3A52"/><text x="99.4" y="192" class="mono" font-size="12" fill="#9FC6D6">Analog</text><rect x="164.0" y="176" width="60" height="24" rx="12" fill="#12263A" stroke="#1F3A52"/><text x="175.0" y="192" class="mono" font-size="12" fill="#9FC6D6">ESP32</text><rect x="232.0" y="176" width="75" height="24" rx="12" fill="#12263A" stroke="#1F3A52"/><text x="243.0" y="192" class="mono" font-size="12" fill="#9FC6D6">XGBoost</text>
+<text x="532" y="193" class="sans" font-size="20" font-weight="700" fill="#FFFFFF" text-anchor="end">93.58% <tspan class="mono" font-size="11" font-weight="400" fill="#7FA6B8">activity accuracy</tspan></text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 220" width="560" height="220">
+<style>.sans{font-family:'Segoe UI',-apple-system,Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}</style>
+<rect x="1" y="1" width="558" height="218" rx="16" fill="#0A1320" stroke="#1C3147" stroke-width="2"/>
+<text x="28" y="40" class="mono" font-size="12" fill="#06B6D4" letter-spacing="1.5">05 · B.E. THESIS</text>
+<text x="28" y="76" class="sans" font-size="23" font-weight="700" fill="#FFFFFF">IoT sewage monitoring system</text>
+<text x="28" y="110" class="sans" font-size="15" fill="#A9BBCB">Flow, level, leak and gas sensing,</text>
+<text x="28" y="132" class="sans" font-size="15" fill="#A9BBCB">ESP8266 → Blynk push alerts</text>
+<line x1="28" y1="152" x2="532" y2="152" stroke="#1C3147"/>
+<rect x="28" y="176" width="75" height="24" rx="12" fill="#12263A" stroke="#1F3A52"/><text x="39" y="192" class="mono" font-size="12" fill="#9FC6D6">Arduino</text><rect x="111.19999999999999" y="176" width="75" height="24" rx="12" fill="#12263A" stroke="#1F3A52"/><text x="122.19999999999999" y="192" class="mono" font-size="12" fill="#9FC6D6">ESP8266</text><rect x="194.39999999999998" y="176" width="60" height="24" rx="12" fill="#12263A" stroke="#1F3A52"/><text x="205.39999999999998" y="192" class="mono" font-size="12" fill="#9FC6D6">Blynk</text><rect x="262.4" y="176" width="45" height="24" rx="12" fill="#12263A" stroke="#1F3A52"/><text x="273.4" y="192" class="mono" font-size="12" fill="#9FC6D6">PCB</text>
+<text x="532" y="193" class="sans" font-size="20" font-weight="700" fill="#FFFFFF" text-anchor="end">4 <tspan class="mono" font-size="11" font-weight="400" fill="#7FA6B8">sensors + GPS</tspan></text>
+</svg>
