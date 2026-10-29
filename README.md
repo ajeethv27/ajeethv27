@@ -11,7 +11,7 @@
 
 ### Hi, I'm Ajeeth 👋
 
-I build embedded systems that sit close to the physical world: sensors that produce awkward signals, the analog electronics that make those signals usable, and the firmware and machine learning that turn them into decisions. I have three years of experience across industry (**Cognizant**) and applied research (**Fraunhofer EMI**, **livMatS**), and hold an M.Sc. in Embedded Systems Engineering from the **University of Freiburg**.
+I build embedded systems that sit close to the physical world: sensors that produce awkward signals, the analog electronics that make those signals usable and the firmware + machine learning that turn them into decisions. I have three years of experience across industry (**Cognizant**) and applied research (**Fraunhofer EMI**, **livMatS**), and hold an M.Sc. in Embedded Systems Engineering from the **University of Freiburg**.
 
 ```c
 struct Engineer ajeeth = {
@@ -91,7 +91,7 @@ A triboelectric nanogenerator (TENG) in the heel of a shoe insole turns every fo
 ![Altium](https://img.shields.io/badge/Altium-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white)
 ![Analog front-ends](https://img.shields.io/badge/Analog-signal%20conditioning-0E1A2B?style=flat-square)
 ![Protocols](https://img.shields.io/badge/CAN%20·%20SPI%20·%20UART%20·%20I²C-334155?style=flat-square)
-![Wireless](https://img.shields.io/badge/BLE%20·%20Wi--Fi%20·%20MQTT-334155?style=flat-square)
+![Wireless](https://img.shields.io/badge/BLE%20·%20Wi--Fi%20·%20MQTT%20·%20LoRaWAN-334155?style=flat-square)
 
 **Tools**<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -108,10 +108,11 @@ A triboelectric nanogenerator (TENG) in the heel of a shoe insole turns every fo
 |---|---|---|
 | 2024 – 2025 | **Master's thesis:** biomedical wearable for rehabilitation | livMatS · University of Freiburg |
 | 2024 | **Student research assistant:** robotics & sensor systems | Fraunhofer EMI, Freiburg |
-| 2023 – 2024 | **Start-up project:** TinyML smart waste monitoring | Hahn-Schickard, Freiburg |
+| 2023 – 2024 | **Start-up project:** TinyML smart waste monitoring | Hahn-Schickard / Uni Freiburg |
 | 2022 – 2026 | **M.Sc. Embedded Systems Engineering** | University of Freiburg |
 | 2021 – 2022 | **Software engineer:** test automation & healthcare analytics | Cognizant, Bengaluru |
 | 2019 | **Graduate innovation engineer:** IoT energy monitoring | Forge Innovation & Ventures |
+| 2017 – 2021 | **B.E. Electrical & Electronics Engineering** | Anna University (Kumaraguru College of Technology) |
 
 ### 📄 Publications
 
